@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrWebTestTask</string>
+    <string name="checkbox_system_app">Показать системные приложения</string>
+    <string name="button_open_app">Открыть приложение</string>
+
+    <string name="textview_name">Имя</string>
+    <string name="textview_version">Версия</string>
+    <string name="textview_package_name">Имя пакета</string>
+    <string name="textview_control_sum">Контрольная сумма</string>
+</resources>
